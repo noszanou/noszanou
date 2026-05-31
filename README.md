@@ -60,8 +60,8 @@ Full-stack developer • Systems engineer • Obsessed with backend performance,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noszanou/github-stats/master/generated/overview.svg" />
-  <img src="https://raw.githubusercontent.com/noszanou/github-stats/master/generated/languages.svg" />
+  <img src="https://github.com/noszanou/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/noszanou/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 ---
